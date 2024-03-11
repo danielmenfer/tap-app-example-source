@@ -1,3 +1,7 @@
+# Copia del repositorio
+
+se ha realizado este repositorio como copia del repositorio https://github.com/sample-accelerators/tanzu-java-web-app
+
 # tanzu-java-web-app
 
 > **NOTE** This repo has been archived and the sample has been moved to:  
